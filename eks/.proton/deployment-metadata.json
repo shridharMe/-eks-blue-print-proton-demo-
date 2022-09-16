@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "18cd03ba-b9b3-49cc-b32b-0f01161dbd9c",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:753690273280:environment/eks",
+    "templateArn" : "arn:aws:proton:us-east-2:753690273280:environment-template/eks",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1"
+  }
+}
