@@ -1,1 +1,1 @@
-# -eks-blue-print-proton-demo-
+# eks-blue-print-proton-demo
