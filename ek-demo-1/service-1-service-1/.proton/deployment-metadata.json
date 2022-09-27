@@ -1,0 +1,11 @@
+{
+  "deploymentId" : "835f52e0-9805-4baa-971b-a2a6108d43e0",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:753690273280:service/service-1/service-instance/service-1",
+    "templateArn" : "arn:aws:proton:us-east-2:753690273280:service-template/micro-service1",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-2:753690273280:environment/ek-demo-1"
+  }
+}
